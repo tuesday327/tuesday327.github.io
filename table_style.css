@@ -1,8 +1,22 @@
 table {
-  width: 75%;
-  font-size: large;
+}
+
+td,
+th {
+    padding: 10px;
 }
 
 td {
-  padding: 10px;
+    text-align: center;
+    border-right: var(--secondary) 1px solid;
+}
+
+tr td:last-child {
+    border: none;
+}
+
+th {
+    background: var(--secondary);
+    font-size: .75rem;
+    text-align: left;
 }

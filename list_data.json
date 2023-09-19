@@ -5,7 +5,7 @@
 			"Manufacturer": "Robert Oster",
 			"Volume": "50ml",
             "Color(s)": "purple",
-            "Ink Composition": "dye-based",
+            "Composition": "dye-based",
 			"Shimmer": "no"
 		},
 		{
@@ -13,7 +13,7 @@
 			"Manufacturer": "Wearingeul",
 			"Volume": "30ml",
             "Color(s)": "blue, yellow",
-            "Ink Composition": "dye-based",
+            "Composition": "dye-based",
 			"Shimmer": "yes"
 		},
 		{
@@ -21,24 +21,32 @@
 			"Manufacturer": "Nagasawa",
 			"Volume": "25ml",
             "Color(s)": "light blue",
-            "Ink Composition": "water-based",
+            "Composition": "water-based",
 			"Shimmer": "no"
 		},
 		{
-			"Name": "Shogun Ink by Kenzo Takada - Artist Collection",
+			"Name": "Shogun",
 			"Manufacturer": "J. Herbin",
 			"Volume": "50ml",
             "Color(s)": "gray",
-            "Ink Composition": "dye-based",
+            "Composition": "dye-based",
 			"Shimmer": "yes"
 		},
         {
-			"Name": "Cocoa Shimmer Ink",
+			"Name": "Cocoa Shimmer",
 			"Manufacturer": "Diamine",
 			"Volume": "50ml",
             "Color(s)": "brown",
-            "Ink Composition": "dye-based",
+            "Composition": "dye-based",
 			"Shimmer": "yes"
 		},
+        {
+			"Name": "Parfum Violette",
+			"Manufacturer": "J. Herbin",
+			"Volume": "30ml",
+            "Color(s)": "purple",
+            "Composition": "dye-based",
+			"Shimmer": "no"
+		}
 	]
 }
