@@ -6,7 +6,7 @@
 			"Volume": "50ml",
             "Color(s)": "purple",
             "Ink Composition": "dye-based",
-			"Shimmer": "no",
+			"Shimmer": "no"
 		},
 		{
 			"Name": "Alice Ink",
@@ -14,7 +14,7 @@
 			"Volume": "30ml",
             "Color(s)": "blue, yellow",
             "Ink Composition": "dye-based",
-			"Shimmer": "yes,
+			"Shimmer": "yes"
 		},
 		{
 			"Name": "Onomatopoeia Puka Puka",
@@ -22,7 +22,7 @@
 			"Volume": "25ml",
             "Color(s)": "light blue",
             "Ink Composition": "water-based",
-			"Shimmer": "no",
+			"Shimmer": "no"
 		},
 		{
 			"Name": "Shogun Ink by Kenzo Takada - Artist Collection",
@@ -30,7 +30,7 @@
 			"Volume": "50ml",
             "Color(s)": "gray",
             "Ink Composition": "dye-based",
-			"Shimmer": "yes",
+			"Shimmer": "yes"
 		},
         {
 			"Name": "Cocoa Shimmer Ink",
@@ -38,7 +38,7 @@
 			"Volume": "50ml",
             "Color(s)": "brown",
             "Ink Composition": "dye-based",
-			"Shimmer": "yes",
+			"Shimmer": "yes"
 		},
 	]
 }
