@@ -1,22 +1,44 @@
 {
-	"movies": [
-		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+	"Bottled Inks": [
+        {
+			"Name": "Sydney Lavender",
+			"Manufacturer": "Robert Oster",
+			"Volume": "50ml",
+            "Color(s)": "purple",
+            "Ink Composition": "dye-based",
+			"Shimmer": "no",
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Name": "Alice Ink",
+			"Manufacturer": "Wearingeul",
+			"Volume": "30ml",
+            "Color(s)": "blue, yellow",
+            "Ink Composition": "dye-based",
+			"Shimmer": "yes,
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
-		}
+			"Name": "Onomatopoeia Puka Puka",
+			"Manufacturer": "Nagasawa",
+			"Volume": "25ml",
+            "Color(s)": "light blue",
+            "Ink Composition": "water-based",
+			"Shimmer": "no",
+		},
+		{
+			"Name": "Shogun Ink by Kenzo Takada - Artist Collection",
+			"Manufacturer": "J. Herbin",
+			"Volume": "50ml",
+            "Color(s)": "gray",
+            "Ink Composition": "dye-based",
+			"Shimmer": "yes",
+		},
+        {
+			"Name": "Cocoa Shimmer Ink",
+			"Manufacturer": "Diamine",
+			"Volume": "50ml",
+            "Color(s)": "brown",
+            "Ink Composition": "dye-based",
+			"Shimmer": "yes",
+		},
 	]
 }

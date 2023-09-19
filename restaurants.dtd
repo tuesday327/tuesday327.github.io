@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--DTD for Restaurants-->
+<!--restaraunts metadata
+
+<!ELEMENT restaurant (id, name, cuisine, city, open, close)>
+<!ElEMENT id (#PCDATA)>
+<!ElEMENT name (#PCDATA)>
+<!ElEMENT cuisine (#PCDATA)>
+<!ElEMENT city (#PCDATA)>
+<!ElEMENT open (#PCDATA)>
+<!ElEMENT close (#PCDATA)>

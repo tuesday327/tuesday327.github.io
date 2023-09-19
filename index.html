@@ -1,29 +1,33 @@
 <!DOCTYPE HTML>  
 <html>  
-    <header>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet"> 
         <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="table_style.css">
-        <title>My Webpage Title</title>
-    </header>
+        <title>Build a Website</title>
+    </head>
     <body>  
         <!---Navigation--->
-        <!--This section of code defines the navigation bar at the top of the page.  The classes used here are defined in the style.css file.-->
+        <!--This section of code defines the navigation bar at the top of the page. The classes used here are defined in the style.css file.-->
         <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
             <div class="container">
                 <!--This code defines the "My Webpage" link in the top left corner of the navigation pane-->
-                <a class="navbar-brand" href="./index.html">My Webpage</a>
+                <a class="navbar-brand" href="./index.html">Build a Website</a>
                 <!--This code defines the "List" link in the top right corner of the navigation pane-->
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="./list.html">List</a></li>
                 </ul>
             </div>
         </nav>
+        <section class="wrapper">
         <!--This section defines the middle section of the webpage-->
-        <header class="masthead bg-primary text-white text-center">
-            <div class="container d-flex align-items-center flex-column">
+        <section class="left">
+            <div class="container">
                 
                 <!-- This code is for the student name-->
-                <h1 class="masthead-heading text-uppercase mb-0">Test Student</h1>
+                <h1 class="masthead-heading text-uppercase mb-0">Amarah Williams</h1>
                 <!--This code creates the two lines separating the student name from the subtitle-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
@@ -32,14 +36,14 @@
                 <!--This code creates the subheading underneath the line dividers-->
                 <p class="masthead-subheading font-weight-light mb-0">School of Information Student</p>
             </div>
-        </header>
-        <section class="text-center">
+        </section>
+        <section class="right">
 
-            <div class="col-md-6 col-lg-4 mb-5">
-                <!-- put your bio paragraph here; remember to use the correct html tags -->
-                
+            <div class="container">
+                <h2>Hello!</h2>
+                <p>I'm a MIMS'25 student and I'm particularly interested in UX design and research. For my undergraduate studies, I majored in Communication Design, so I'm quite comfortable with HTML and CSS. Still, I've never had an opportunity to use XML for more than RSS feeds, and I've never touched JSON. I'm always excited to add more tools to my arsenal.</p>
             </div>
         </section>
+        </section>    
     </body>
-
 </html>
